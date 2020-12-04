@@ -6,11 +6,11 @@
       "startCols": 5,
       "colHeaders": true,
       "stretchH": "all",
-      data: [
-        {"id": 1, "name": 'Oil 1', "volume": '1234'},
-        {"id": 2, "name": 'Oil 2', "volume": '2134'},
-        {"id": 3, "name": 'Oil 3', "volume": '2314'},
-        {"id": 1, "name": 'Oil 4', "volume": '2341'}
+      "data": [
+        {"id": 1, "name": "Oil 1", "volume": "1234"},
+        {"id": 2, "name": "Oil 2", "volume": "2134"},
+        {"id": 3, "name": "Oil 3", "volume": "2314"},
+        {"id": 1, "name": "Oil 4", "volume": "2341"}
       ]
     }
   ],
@@ -21,11 +21,11 @@
       "startCols": 5,
       "colHeaders": true,
       "stretchH": "all",
-      data: [
-        {"id": 1, "name": 'Gas 1', "volume": '1234'},
-        {"id": 2, "name": 'Gas 2', "volume": '2134'},
-        {"id": 3, "name": 'Gas 3', "volume": '2314'},
-        {"id": 1, "name": 'Gas 4', "volume": '2341'}
+      "data": [
+        {"id": 1, "name": "Gas 1", "volume": "1234"},
+        {"id": 2, "name": "Gas 2", "volume": "2134"},
+        {"id": 3, "name": "Gas 3", "volume": "2314"},
+        {"id": 1, "name": "Gas 4", "volume": "2341"}
       ]
     }
   ]
